@@ -1,0 +1,16 @@
+body {
+  background-image: url(/IMG/password-sicura.jpg);
+  background-size: cover;
+}
+
+ul {
+  list-style: none;
+}
+
+header {
+background-color: #000000;
+}
+
+#welcome {
+  background-color: #000000;
+}
